@@ -21,3 +21,13 @@ INSERT INTO USERS (name, age) VALUES ('user19',56);
 INSERT INTO USERS (name, age) VALUES ('user20',58);
 
 -- Projects
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project1','arts',10,'1/1/1970','12/31/1999');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project2','community',10,'1/1/1970','12/31/1999');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project3','social justice',10,'1/1/1970','12/31/1999');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project4','arts',20,'2/1/1970','11/30/1999');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project5','community',20,'2/1/1970','11/30/1999');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project6','social justic3',20,'2/1/1970','11/30/1999');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project7','arts',30,'3/1/1970','10/31/1999');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project8','community',30,'3/1/1970','10/31/1999');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project9','social justice',30,'3/1/1970','10/31/1999');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('project10','arts',40,'4/1/1970','9/30/1999');
