@@ -1,3 +1,4 @@
+-- Users
 INSERT INTO USERS (name, age) VALUES ('user1',20);
 INSERT INTO USERS (name, age) VALUES ('user2',22);
 INSERT INTO USERS (name, age) VALUES ('user3',24);
@@ -18,3 +19,5 @@ INSERT INTO USERS (name, age) VALUES ('user17',52);
 INSERT INTO USERS (name, age) VALUES ('user18',54);
 INSERT INTO USERS (name, age) VALUES ('user19',56);
 INSERT INTO USERS (name, age) VALUES ('user20',58);
+
+-- Projects
